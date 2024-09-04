@@ -10,10 +10,10 @@ This project was conducted to help Intel's Sustainability Team determine the opt
 - Analyze renewable energy reliance and net production by region.
 - Provide insights to guide the decision for Intel's new data center location.
 
-The project overview can be found in the [Project Overview](Project_Overview.md)
+The project overview can be found in the [Project Overview](Documentation/Project_Overview.md)
 
 ## Data Set Descriptions
 
 This project used 3 different datasets that each separately contained information about daily energy production and consumption by region, contained information about power plants in the U.S., and contained total energy production information for each plant.
 
-The datasets can be found in the [Dataset Descriptions](Dataset_Descriptions.md)
+The datasets can be found in the [Dataset Descriptions](Documentation/Dataset_Descriptions.md)
