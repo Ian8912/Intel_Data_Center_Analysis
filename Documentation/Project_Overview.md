@@ -1,6 +1,6 @@
 # Intel Data Center Project
 
-![Intel Logo]("Intel Data Center Logo.png")
+![Intel Logo](images\Intel_Data_Center_Logo.png)
 
 ## Introduction:
 
