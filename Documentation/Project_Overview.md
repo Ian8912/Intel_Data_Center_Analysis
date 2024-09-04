@@ -1,6 +1,6 @@
 # Intel Data Center Project
 
-![Intel Logo](images\Intel_Data_Center_Logo.png)
+![Intel Logo](https://github.com/Ian8912/Intel_Data_Center_Analysis/blob/main/images/Intel_Data_Center_Logo.png?raw=true)
 
 ## Introduction:
 
