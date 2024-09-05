@@ -1,4 +1,4 @@
--- Query: Calculate the percentage of renewable energy by region
+-- Query: Calculates the percentage of renewable energy by region
 
 -- Description: This query calculates the percentage of renewable energy produced and groups by region. The percentage of renewable energy produced is calculated by dividing the sum of renewable energy sources by the sum net generation and multiplying this number by 100. The results are ordered in descending order with the highest percentage of renewable energy produced by region on top. 
 
