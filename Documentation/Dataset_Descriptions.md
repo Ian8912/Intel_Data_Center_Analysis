@@ -4,6 +4,8 @@ In this project, you'll query 3 datasets as well as write a query to generate a 
 
 ## Intel.energy_data
 
+[Intel.energy_data](https://github.com/Ian8912/Intel_Data_Center_Analysis/blob/main/datasets/Intel.energy_data.csv)
+
 Contains information about daily energy production and consumption for different regions in the United States.
 
 - **balancing_authority**: A Balancing Authority is responsible for maintaining the electricity balance within its region. This is a company that makes sure electricity is being exchanged between electric providers and regions so that no region runs out of electricity due to high demand.
@@ -22,6 +24,8 @@ Contains information about daily energy production and consumption for different
 
 ## Intel.power_plants_data
 
+[Intel.power_plants_data](https://github.com/Ian8912/Intel_Data_Center_Analysis/blob/main/datasets/Intel.power_plants_data.csv)
+
 Contains general information about power plants in the United States.
 
 - **plant_name**: The name of the power plant.
@@ -31,6 +35,8 @@ Contains general information about power plants in the United States.
 - **primary_technology**: The primary technology used to generate electricity at the power plant.
 
 ## Intel.energy_by_plant_data
+
+[Intel.energy_by_plant_data](https://github.com/Ian8912/Intel_Data_Center_Analysis/blob/main/datasets/Intel.energy_by_plant_data.csv)
 
 Contains total energy production information at the plant for the year 2022.
 
